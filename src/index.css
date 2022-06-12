@@ -161,7 +161,7 @@ Menu
   display: flex;
   justify-content: center;
 }
-.filter-btn {
+.btn1 {
   background: transparent;
   border-color: transparent;
   font-size: 1rem;
@@ -174,7 +174,7 @@ Menu
   transition: var(--transition);
   border-radius: var(--radius);
 }
-.filter-btn:hover {
+.btn1:hover {
   background: var(--clr-gold);
   color: var(--clr-white);
 }

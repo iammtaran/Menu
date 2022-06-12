@@ -11,28 +11,64 @@ function App() {
   }
  
   return (
-  <main>
+  <main className='nav nav-pills nav-stacked'>
     <nav
         style={{
           width: "100%",
           padding: "4rem 0",
           display:"inline",
           textAlign: "center",
+          backgroundColor:"transparent"
         }}
       >
         <button
+        
           type="button"
           onClick={() => handleClick("en")}
-          className="btn btn-primary m-4"
+          className="btn1"
         >
           English
         </button>
+      
+    
+        
         <button
+        
           type="button"
           onClick={() => handleClick("de")}
-          className="btn btn-danger m-4"
+          className="btn1"
         >
           German
+        </button>
+        <button
+        
+          type="button"
+          onClick={() => handleClick("rs")}
+          className="btn1"
+        >
+          Russian
+        </button>
+        <button
+          type="button"
+          onClick={() => handleClick("ar")}
+          className="btn1"
+        >
+          Arabic
+        </button>
+        <button
+          type="button"
+          onClick={() => handleClick("es")}
+          className="btn1"
+        >
+          Spanish
+        </button>
+        <button
+          
+          type="button"
+          onClick={() => handleClick("fr")}
+          className="btn1 "
+        >
+          French
         </button>
       </nav>
     <section className='menu section'>

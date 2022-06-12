@@ -1,0 +1,74 @@
+{
+  "menu1" : {
+    "id": 1,
+    "title": "crêpes allemandes",
+    "category": "petit-déjeuner",
+    "price": 15.98,
+    "img": "./images/item-1.jpeg",
+    "desc": "Je suis de langue allemande, une bouteille bleue à bord vivant wolf bitters, une tasse en cuivre hamac freegan, quelle que soit la pression à froid"
+  },
+  "menu2" : {
+    "id": 2,
+    "title": "dîner double",
+    "category": "déjeuner",
+    "price": 13.99,
+    "img": "./images/item-2.jpeg",
+    "desc": "vaporware iPhone mumblecore lisière denim brut lent leggings carb gochujang helvetica homme tresse jianbing. Thundercats de Marfa"
+  },
+  "menu3" : {
+    "id": 3,
+    "title": "milk-shake godzilla",
+    "category": "secoue",
+    "price": 6.99,
+    "img": "./images/item-3.jpeg",
+    "desc": "ombucha chillwave fanny pack 3 wolf moon street art photomaton avant qu'ils ne soient épuisés virale organique."
+  },
+  "menu4" : {
+    "id": 4,
+    "title": "délice champêtre",
+    "category": "petit-déjeuner",
+    "price": 20.99,
+    "img": "./images/item-4.jpeg",
+    "desc": "Shabby chic keffieh neutra snackwave ventre de porc shoreditch. prisme austin mlkshk truffaut, "
+  },
+  "menu5" : {
+    "id": 5,
+    "title": "attaque d'oeuf",
+    "category": "déjeuner",
+    "price": 22.99,
+    "img": "./images/item-5.jpeg",
+    "desc": "franzen végétalien pabst vélo droits kickstarter pinterest méditation de la ferme à la table pop-up des années 90"
+  },
+  "menu6" : {
+    "id": 6,
+    "title": "rêve d'oreo",
+    "category": "secoue",
+    "price": 18.99,
+    "img": "./images/item-6.jpeg",
+    "desc": "Portland chicharrones ampoule Edison éthique, palo santo bière artisanale chia héritage iPhone tous les jours"
+  },
+  "menu7" : {
+    "id": 7,
+    "title": "débordement de bacon",
+    "category": "petit-déjeuner",
+    "price": 8.99,
+    "img": "./images/item-7.jpeg",
+    "desc": "porter jianbing normcore freegan. Café viral d'origine unique bord vivant, pain de nuage de ventre de porc islandais mis un oiseau "
+  },
+  "menu8" : {
+    "id": 8,
+    "title": "classique américain",
+    "category": "déjeuner",
+    "price": 12.99,
+    "img": "./images/item-8.jpeg",
+    "desc": "sur elle tumblr kickstarter thundercats migas portent des leggings calmar palo santo tous les jours. Truffaut foodtruck "
+  },
+  "menu9" : {
+    "id": 9,
+    "title": "copain de quarantaine",
+    "category": "secoue",
+    "price": 16.99,
+    "img": "./images/item-9.jpeg",
+    "desc": "skateboard fam synthé sémiotique authentique. Live-edge lyft af, ampoule edison yuccie crucifix microdosage."
+  }
+}

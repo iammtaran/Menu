@@ -1,74 +1,74 @@
 {
   "menu1" : {
     "id": 1,
-    "title": "bakwas bakwas",
-    "category": "breakfast",
+    "title": "Deutsche Pfannkuchen",
+    "category": "Frühstück",
     "price": 15.98,
     "img": "./images/item-1.jpeg",
-    "desc": "I'm german  language, wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed "
+    "desc": "Ich bin deutsche Sprache, Wolfsbitter Live-Edge blaue Flasche, Hängematten-Freegan-Kupferbecher, was auch immer kaltgepresst "
   },
   "menu2" : {
     "id": 2,
-    "title": "diner double",
-    "category": "lunch",
+    "title": "Abendessen doppelt",
+    "category": "Mittagessen",
     "price": 13.99,
     "img": "./images/item-2.jpeg",
-    "desc": "vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats "
+    "desc": "Vaporware iPhone Mumblecore Selvage Raw Denim Slow-Carb Leggings Gochujang Helvetica Man Braid Jianbing. Marfa Donnerkatzen"
   },
   "menu3" : {
     "id": 3,
-    "title": "godzilla milkshake",
-    "category": "shakes",
+    "title": "Godzilla-Milchshake",
+    "category": "schüttelt",
     "price": 6.99,
     "img": "./images/item-3.jpeg",
-    "desc": "ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral."
+    "desc": "Ombucha Chillwave Fanny Pack 3 Wolf Moon Street Art Photo Booth, bevor sie ausverkauft sind, organisch viral."
   },
   "menu4" : {
     "id": 4,
-    "title": "country delight",
-    "category": "breakfast",
+    "title": "Land Freude",
+    "category": "Frühstück",
     "price": 20.99,
     "img": "./images/item-4.jpeg",
-    "desc": "Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, "
+    "desc": "Shabby Chic Keffiyeh Neutra Snackwave Schweinebauch Shoreditch. Prism austin mlkshk truffaut,"
   },
   "menu5" : {
     "id": 5,
-    "title": "egg attack",
-    "category": "lunch",
+    "title": "Ei-Angriff",
+    "category": "Mittagessen",
     "price": 22.99,
     "img": "./images/item-5.jpeg",
-    "desc": "franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up "
+    "desc": "franzen vegan pabst fahrradrechte kickstarter pinterest meditation farm-to-table 90er pop-up "
   },
   "menu6" : {
     "id": 6,
-    "title": "oreo dream",
-    "category": "shakes",
+    "title": "Oreo-Traum",
+    "category": "schüttelt",
     "price": 18.99,
     "img": "./images/item-6.jpeg",
-    "desc": "Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday"
+    "desc": "Portland Chicharrones ethische Edison-Birne, Palo Santo Craft Beer Chia Heirloom iPhone jeden Tag"
   },
   "menu7" : {
     "id": 7,
-    "title": "bacon overflow",
-    "category": "breakfast",
+    "title": "Speck überlaufen",
+    "category": "Frühstück",
     "price": 8.99,
     "img": "./images/item-7.jpeg",
-    "desc": "carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird "
+    "desc": "trage jianbing normcore freegan. Viraler Single-Origin-Kaffee Live-Edge, Schweinebauchwolkenbrot Island legte einen Vogel"
   },
   "menu8" : {
     "id": 8,
-    "title": "american classic",
-    "category": "lunch",
+    "title": "amerikanischer klassiker",
+    "category": "Mittagessen",
     "price": 12.99,
     "img": "./images/item-8.jpeg",
-    "desc": "on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  "
+    "desc": "darauf tumblr kickstarter thundercats migas tragen jeden tag tintenfisch palo santo leggings. Foodtruck truffaut"
   },
   "menu9" : {
     "id": 9,
-    "title": "quarantine buddy",
-    "category": "shakes",
+    "title": "Quarantäne Kumpel",
+    "category": "schüttelt",
     "price": 16.99,
     "img": "./images/item-9.jpeg",
-    "desc": "skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing."
+    "desc": "Skateboard Fam Synth authentische Semiotik. Live-edge lyft af, edison-birne yuccie kruzifix mikrodosierung."
   }
 }

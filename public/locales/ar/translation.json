@@ -1,0 +1,74 @@
+{
+  "menu1" : {
+    "id": 1,
+    "title": "الفطائر الألمانية",
+    "category": "وجبة افطار",
+    "price": 15.98,
+    "img": "./images/item-1.jpeg",
+    "desc": "أنا لغة ألمانية ، زجاجة زرقاء حية على شكل ذئب ، كوب نحاسي أرجوحة أرجوحة ، أيًا كان الضغط البارد "
+  },
+  "menu2" : {
+    "id": 2,
+    "title": "العشاء مزدوج",
+    "category": "غداء",
+    "price": 13.99,
+    "img": "./images/item-2.jpeg",
+    "desc": "vaporware iPhone mumblecore selvage الخام الدنيم طماق بطيئة الكربوهيدرات gochujang helvetica man braid jianbing. قطط الرعد المرفا"
+  },
+  "menu3" : {
+    "id": 3,
+    "title": "ميلك شيك جودزيلا",
+    "category": "يهز",
+    "price": 6.99,
+    "img": "./images/item-3.jpeg",
+    "desc": "ombucha chillwave fanny pack 3 وولف مون ستريت آرت آرت فوت بوث قبل بيعها فيروسية عضوية."
+  },
+  "menu4" : {
+    "id": 4,
+    "title": "فرحة البلد",
+    "category": "وجبة افطار",
+    "price": 20.99,
+    "img": "./images/item-4.jpeg",
+    "desc": "رث شيك كوفية neutra snackwave لحم الخنزير البطن shoreditch. منشور أوستن ملكشك تروفاوت ، "
+  },
+  "menu5" : {
+    "id": 5,
+    "title": "هجوم البيض",
+    "category": "غداء",
+    "price": 22.99,
+    "img": "./images/item-5.jpeg",
+    "desc": "franzen vegan pabst دراجة حقوق كيك ستارتر بنترست التأمل مزرعة إلى طاولة 90 المنبثقة"
+  },
+  "menu6" : {
+    "id": 6,
+    "title": "حلم أوريو",
+    "category": "يهز",
+    "price": 18.99,
+    "img": "./images/item-6.jpeg",
+    "desc": "بورتلاند chicharrones لمبة إديسون الأخلاقية ، بالو سانتو كرافت بيرة شيا الإرث iPhone كل يوم"
+  },
+  "menu7" : {
+    "id": 7,
+    "title": "تجاوز لحم الخنزير المقدد",
+    "category": "وجبة افطار",
+    "price": 8.99,
+    "img": "./images/item-7.jpeg",
+    "desc": "حمل jianbing normcore freegan. الفيروسية ذات الأصل الواحد القهوة الحية ، لحم الخنزير بطن سحابة الخبز أيسلندا وضع الطيور"
+  },
+  "menu8" : {
+    "id": 8,
+    "title": "الكلاسيكية الأمريكية",
+    "category": "غداء",
+    "price": 12.99,
+    "img": "./images/item-8.jpeg",
+    "desc": "عليها tumblr kickstarter thundercats migas كل يوم تحمل طماق الحبار Palo santo. truffaut شاحنة الغذاء "
+  },
+  "menu9" : {
+    "id": 9,
+    "title": "رفيق الحجر الصحي",
+    "category": "يهز",
+    "price": 16.99,
+    "img": "./images/item-9.jpeg",
+    "desc": "السيميائية الأصيلة موالفة فام لوح التزلج. ليفت ليفت لايف ، لمبة إديسون يوتشي كروسيفيكس ميكرو."
+  }
+}
