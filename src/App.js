@@ -38,7 +38,7 @@ function App() {
           onClick={() => handleClick("de")}
           className="btn1"
         >
-          German
+          deutsch
         </button>
         <button
         
@@ -46,21 +46,21 @@ function App() {
           onClick={() => handleClick("rs")}
           className="btn1"
         >
-          Russian
+          русский
         </button>
         <button
-          type="button"
+          type="button"gi
           onClick={() => handleClick("ar")}
           className="btn1"
         >
-          Arabic
+          عربى
         </button>
         <button
           type="button"
           onClick={() => handleClick("es")}
           className="btn1"
         >
-          Spanish
+          español
         </button>
         <button
           
@@ -68,19 +68,23 @@ function App() {
           onClick={() => handleClick("fr")}
           className="btn1 "
         >
-          French
+          français
         </button>
       </nav>
     <section className='menu section'>
       <div className="title">
-        <h2>Vibing Miami </h2>
+        <h2>{t("title1.title")}</h2>
         <br></br>
-        <h3>Sip good in the hood </h3>
+        <h3>{t("title1.subtitle")} </h3>
         <div className='underline'></div>
+      </div>
+      <div className='spacing'>
+
       </div>
     <div className='section-center'>
     
-      <article key={t("menu1.id")} className='menu-item'>
+      <article
+       key={t("menu1.id")} className='menu-item'>
         <img src={t("menu1.img")} alt={t("menu1.title")} className='photo' />
         <div className="item-info">
           <header>
@@ -141,10 +145,10 @@ function App() {
         </div>
       </article>
       <article key={t("menu7.id")} className='menu-item'>
-        <img src={t("menu1.img")} alt={t("menu7.title")} className='photo' />
+        <img src={t("menu7.img")} alt={t("menu7.title")} className='photo' />
         <div className="item-info">
           <header>
-            <h4>{t("menu1.title")}</h4>
+            <h4>{t("menu7.title")}</h4>
             <h4 className='price'>{t("menu7.price")}</h4>
           </header>
           <p className='item-text'>{t("menu7.desc")}</p>
@@ -164,7 +168,7 @@ function App() {
         <img src={t("menu9.img")} alt={t("menu9.title")} className='photo' />
         <div className="item-info">
           <header>
-            <h4>{t("menu1.title")}</h4>
+            <h4>{t("menu9.title")}</h4>
             <h4 className='price'>{t("menu9.price")}</h4>
           </header>
           <p className='item-text'>{t("menu9.desc")}</p>

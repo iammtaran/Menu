@@ -143,7 +143,7 @@ Menu
 */
 
 .menu {
-  padding: 5rem 0;
+  padding: 1rem 0;
 }
 .title {
   text-align: center;
@@ -220,6 +220,9 @@ Menu
     grid-template-columns: 225px 1fr;
     gap: 0 1.25rem;
     max-width: 40rem;
+  }
+  .spacing{
+    height: 3rem
   }
   .photo {
     height: 175px;
